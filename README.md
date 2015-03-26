@@ -1,4 +1,9 @@
-# feedback
+# Support
 
-[![Join the chat at https://gitter.im/xysec/feedback](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/xysec/feedback?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-A public repo to get feedback and issues related to Appknox
+[![Join the chat at https://gitter.im/xysec/support](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/xysec/support)
+
+A public repo to support our customers.
+
+If you wish to report something, please [create a new issue](https://github.com/xysec/support/issues/new) in this repo
+
+You can also [chat with us](https://gitter.im/xysec/support).
